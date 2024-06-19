@@ -35,7 +35,7 @@ For question-answering:
 ```bash
 # Run GWMoE on Switch Transformer for question-answering:
 
-bash switch_transformer/tasks/question-answering/run_seq2seq_qa.sh
+bash ./tasks/question-answering/run_seq2seq_qa.sh
 ```
 
 ## Citation
