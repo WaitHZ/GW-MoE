@@ -55,7 +55,10 @@ If you find our work helpful, please cite our paper:
 }
 ```
 
+## Acknowledgement
 
+Our codebase is built on [Transformers](https://github.com/huggingface/transformers) and [JetMoE](https://github.com/myshell-ai/JetMoE).
 
+## License
 
-
+This source code is released under the MIT license, included [here](https://github.com/WaitHZ/GW-MoE/blob/main/LICENSE).
