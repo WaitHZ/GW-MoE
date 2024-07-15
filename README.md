@@ -1,6 +1,7 @@
 # GW-MoE
 
 [![arxiv](https://img.shields.io/badge/Arxiv-2406.12375-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2406.12375)
+[![hf_space](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2406.12375)
 
 The official implementation of the paper "GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory".
 
